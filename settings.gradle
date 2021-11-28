@@ -1,0 +1,3 @@
+rootProject.name = "OpenCVNativeDemo"
+include ':app'
+include ':OpenCVLib420'
